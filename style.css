@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins' sans-serif;
+    
+}
+
+.head{
+    background-color: black;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    
+
+}
+.topDown ul{
+    list-style: none;
+    display: flex;
+    color: rgb(12, 207, 12);
+    font-size: larger;
+}
+.topDown ul li{
+    margin: 10px;
+}
+.topDown ul li :hover{
+    color: salmon;
+}
