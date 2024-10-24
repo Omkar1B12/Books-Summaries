@@ -93,3 +93,14 @@ a{
     nav ul li ul li a:hover {
         background-color: #f0f0f0;
     }
+    .social-media-handles {
+        background-color: white;
+    }
+    .social-media-handles ul{
+        display: flex;
+    }
+
+.social-media-handles  img{
+    height: 15px;
+    width: 45px;
+}
