@@ -9,7 +9,7 @@ body{
 }
 
 .head{
-    background-color: black;
+    background-color: rgb(53, 45, 45);
     display: flex;
     padding: 20px;
     align-items: center;
@@ -93,14 +93,36 @@ a{
     nav ul li ul li a:hover {
         background-color: #f0f0f0;
     }
-    .social-media-handles {
-        background-color: white;
-    }
+    /* .social-media-handles {
+    
+    } */
     .social-media-handles ul{
         display: flex;
+        list-style: none;
     }
 
 .social-media-handles  img{
     height: 15px;
     width: 45px;
+}
+.home-page-image img{
+width: 1200px;
+height: 700px;   
+    
+}
+.homepage-image-heading{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.homepage-image-heading h1{
+    color: white;
+}
+.homepage-image-heading button{
+    background-color: orange;
+    width: 250px;
+    height: 45px;
+    padding: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
