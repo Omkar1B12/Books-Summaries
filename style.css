@@ -135,3 +135,12 @@ height: 700px;
 .list-of-topics a{
     color: inherit;
 }
+.list-of-topics li{
+    margin: 15px;
+}
+.search-option img{
+    height: 20px;
+
+}
+.search-option button{
+}
