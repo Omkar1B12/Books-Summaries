@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.pic img{
+    height: 250px;
+    width: 150px;
+}
+.info{
+    background-color: aqua;
+    height: 350px;
+    width: 300px;
+}
