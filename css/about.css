@@ -1,12 +1,41 @@
 body{
     background-color: black;
 }
+.pic{
+    margin-top: 150px;
+    margin-left: 50px;
+}
 .pic img{
     height: 250px;
-    width: 150px;
+    width: 200px;
 }
 .info{
-    background-color: aqua;
+   
     height: 350px;
     width: 300px;
+    margin-top: 150px;
+    margin-left: 350px;
+    color: white;
 }
+.container{
+    display: flex;
+}
+h2{
+    color: rgb(19, 143, 220);
+}
+h3{
+    margin-top: -10px;
+}
+h1{
+    margin-top: -10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.SDE-hadle img{
+    height: 20px;
+    width: 20px;
+    margin-top: -30px;
+}
+.SDE-hadle{
+    
+}
+
