@@ -140,3 +140,16 @@ nav ul li ul li a:hover {
 }
 /* .search-option button{
 } */
+.sign-up{
+  margin-left: 480px;
+}
+.sign-up button{
+  background-color: #1eb9e8; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
